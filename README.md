@@ -12,13 +12,13 @@ Our company is data Science (DS) is a data science company specializing in data 
 An airline is a company that provides air transport services for traveling passengers and freight. In this project, DS company will analyze the data airline customer satisfaction data of the flights provide actionable insights that will enable them to improve satisfaction. The goal of this project is to determine what factors lead to customer satisfaction for an Airline.
 
 ### Question\Need:
->What type of class was more satisfied passengers?
+What type of class was more satisfied passengers?
 
->What age group was more satisfied with the airline service?
+What age group was more satisfied with the airline service?
 
->What type of customer was more satisfied passengers?
+What type of customer was more satisfied passengers?
 
->Satisfaction depends on gender of passengers?
+Satisfaction depends on gender of passengers?
 
 
 
@@ -75,8 +75,8 @@ We will be using the " analyze the data airline customer satisfaction data " Dat
 
 ### Tools:
 
->Technologies: python, Jupyter notebook
->Libraries: pandas, numpy, matplotlib, seaborn, , LogisticRegression , sklearn.linear_model, sklearn.model_selection, sklearn.preprocessing
+Technologies: python, Jupyter notebook
+Libraries: pandas, numpy, matplotlib, seaborn, , LogisticRegression , sklearn.linear_model, sklearn.model_selection, sklearn.preprocessing
 
 ### BY
 >Rana Alturki  
